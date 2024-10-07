@@ -1,4 +1,4 @@
 # Topics
 
 - OK - html & css
-- basic page structure
+- OK - basic page structure
