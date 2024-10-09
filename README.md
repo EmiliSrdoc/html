@@ -4,5 +4,5 @@
 - OK - basic page structure
 - OK - cleanup header and footer
 - OK - image
-- image gallery
-- link
+- OK - image gallery
+- OK - link
