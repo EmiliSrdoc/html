@@ -3,5 +3,6 @@
 - OK - html & css
 - OK - basic page structure
 - OK - cleanup header and footer
-- image
+- OK - image
+- image gallery
 - link
